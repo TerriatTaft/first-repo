@@ -1,4 +1,4 @@
 new file example
-New notes to this file Feb 24 2024
+New notes to this file Feb 24 2024. This is adding lines using Visual Studio Code.
 
-This is another line to add same date
+This is another line to add same date. THen I added words to this line too.
